@@ -1,4 +1,4 @@
-# React Nice Resume :page_with_curl:
+# Krittiya-React-Resume
 
 ### [LIVE DEMO](https://krittiya-pichai.web.app/)
 
