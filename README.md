@@ -2,7 +2,7 @@
 
 ### [LIVE DEMO](https://krittiya-pichai.web.app/)
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
+![img](https://www.img.in.th/images/70839a6030296ccb93c76f17e39c2d90.png)
 
 # About [`particles-bg`](https://github.com/lindelof/particles-bg) Library
 #### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
