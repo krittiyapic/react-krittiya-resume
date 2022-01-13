@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name":"Krittiya Pichai",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"I am newly graduated in Information Technology from Sirindhorn International Institute of Technology (SIIT), Thammasat University.I am interested in full stack developer because developing website both front-end and back-end is my passion and I’d like to challenge myself to create website with complex code make it into a beautiful, and responsive user interface. I will be very proud when I have designed and developed a website that the users will have the best possible user’s experience.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "github":"https://github.com/krittiyapic",
+    "project":"https://www.linkedin.com/in/krittiya-pichai-b8967a229/",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/drive/folders/1Oq1dqvVBiAMUNHQde1SPOQHf9-GqPg9x",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/krittiyapic",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/krittiya-pichai-b8967a229/",
+        "className":"fa fa-linkedin"
+      },
+      
+     
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/krittiya.pichai/",
+        "className":"fa fa-facebook"
+      }
+   
+  
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"SIIT, Thammasat University",
+        "degree":"Information Technology",
+        "graduated":"2017 - 2021",
+        "description":""
+      }
+   
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2018 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2017 - February 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Krittiya's Resume",
+        "category":"Resume website made by myself that represent my personal information and portfolio. Developed by React and deployed by Firebase.",
+        "image":"resume.png",
+        "url":"https://github.com/krittiyapic/react-krittiya-resume"
+      },
+      {
+        "title":"iJune Shop",
+        "category":"This project is part of ITS344 Web and Business Application Development, first time that I know about React. This website simulate Online Mobile Shop for customers. It's developed by React and Bootstrap.",
+        "image":"mobile-shop.png",
+        "url":"https://github.com/krittiyapic/react-mobile-shop"
+      },
+      {
+        "title":"Online Book Shop",
+        "category":"This is my first project in university that I have developed by myself, part of ITS322 Database System. It's has features for customers and staffs. This website develop by CSS, HTML, PHP, and MySQL",
+        "image":"onlinebook.png",
+        "url":"https://krittiyapichai.000webhostapp.com/shop.php"
+      },
+      {
+        "title":"JOTZombie",
+        "category":"This project is part of ITS353 Graphic and Game Programming, first time that I designed and made game project. This project is third-person shooting game (TPS) and survival from zombies. It's developed by Unity software.",
+        "image":"zombie.png",
+        "url":"https://drive.google.com/drive/folders/1-llWmFP0WcLPjEQGFKQlfs3DxttVdoU8?usp=sharing"
+      },
+      {
+        "title":"Game Development",
+        "category":"This is my 4th year senior project. This project is action role-playing game (RPG) with apocalypse world theme. It's developed by Unity software.",
+        "image":"gamedev.png",
+        "url":"https://drive.google.com/drive/folders/1L-wOfNoVBYR0OrcynvMWmA9XP9TcLOQz?usp=sharing"
+      }
+      
+     
+    ]
+  }
+}
